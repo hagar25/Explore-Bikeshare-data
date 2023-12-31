@@ -12,7 +12,6 @@ View(chi)
 head(chi, 5)
 names(chi)
 dim(chi)
-head(chi ,4)
 
 ##import dataset = chi
 ny <- read.csv('ny/new_york_city.csv', header = TRUE)
